@@ -2,7 +2,7 @@
 
 The Smart Expense Manager App is a Java-based application developed to help users track and manage their expenses efficiently. The app provides a user-friendly graphical user interface (GUI) and offers features such as expense entry, categorization, visualization of spending habits, and data clearance.
 
-## Features
+# Features
 
 - Add expenses: Allows users to enter their expenses by providing the amount, category, and date.
 - Categorize expenses: Calculates and displays category-wise expense totals, offering insights into spending patterns.
